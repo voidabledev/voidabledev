@@ -1,9 +1,16 @@
-### Hi there 👋
+# 👋 Hi! I'm voidable and I like to code
 
-This is my Github page!
+![profile_views](https://komarev.com/ghpvc/?username=voidabledev)
 
-- 🔭 I’m currently a Manager in [Astral Island](https://discord.gg/GddGcbe7xQ) and a Developer at [Tommo's Universe](https://discord.gg/ZW9PyzMfYz)
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: [Discord](https://dsc.bio/voidabledev)
-- 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I'm a Latin guy
+## I enjoy coding in [Javascript](https://javascript.com) and [Typescript](https://typescriptlang.org)
+
+### About me
+I started coding **6** months ago, when I wanted to learn Web Development. I deviated from that and started coding [discord.js](https://discord.js.org).
+
+### Fun facts
+- I live in South America
+- I'm a Discord Developer and Community Manager
+
+### Contact me
+- See my [Discord Bio](https://dsc.bio/voidabledev)
+- Join this epic [Discord server](https://discord.gg/GddGcbe7xQ)
