@@ -5,7 +5,7 @@
 ## I enjoy coding in [Javascript](https://javascript.com) and [Typescript](https://typescriptlang.org)
 
 ### About me
-I started coding **6** months ago, when I wanted to learn Web Development. I deviated from that and started coding [discord.js](https://discord.js.org).
+I started coding in Januray 2021, when I wanted to learn Web Development. I deviated from that and started coding with [discord.js](https://discord.js.org).
 
 ### Fun facts
 - I live in South America
