@@ -1,18 +1,16 @@
-# 👋 Hi! I'm voidable and I like to code
+# 👋 hey! im void.
 
 ![profile_views](https://komarev.com/ghpvc/?username=voidabledev)
 
-## I enjoy coding in [Javascript](https://javascript.com) and [Typescript](https://typescriptlang.org)
-
-### About me
-I started coding in Jan/2021, when I wanted to learn web development. I deviated from that and started coding with [discord.js](https://discord.js.org). Currently taking a break, burnt out from coding.
+### about me
+i started coding in jan 2021, when i wanted to learn web development. i deviated from that and started coding with [discord.js](https://discord.js.org). im now coming back from my 3-year long hiatus.
 
 ### Fun facts
-- I live in Colombia
-- I'm a Discord Developer and Community Manager
-- I know english and spanish
-- I play a lot of games, if you want to play message me at my discord: voidable#0260
+- i live in latam
+- im in the tier 3 scene of val pro play in latam
+- i speak english and spanish
+- i go to the gym
 
-### Contact me
-- See my [Discord Bio](https://dsc.bio/voidabledev)
-- Join this epic [Discord server](https://discord.gg/sup)
+### contact me
+- on discord: justvoidable
+- or gmail: voidable.discord@gmail.com
