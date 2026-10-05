@@ -18,4 +18,4 @@ Fluent in English and Spanish, so I'm comfortable working with clients and teams
 
 I take on freelance Discord bot projects. If you have an idea for your community, feel free to reach out.
 
-📫 **Contact:** _in my discord @: justvoidable or my ![Fiverr](https://www.fiverr.com/voidabledev)_
+📫 **Contact:** _in my discord @: justvoidable or my [Fiverr](https://www.fiverr.com/voidabledev)_
