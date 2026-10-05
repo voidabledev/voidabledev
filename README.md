@@ -4,7 +4,7 @@ I'm a developer based in Colombia who builds custom Discord bots with **TypeScri
 
 ## What I work on
 
-- **Bots.** Mainy discord bots with my current knowledge, but I aspire to become a SWE someday!
+**Bots.** Mainy discord bots with my current knowledge, but I aspire to become a SWE someday!
 
 ## Tech
 
