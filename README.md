@@ -1,16 +1,21 @@
-# 👋 hey! im void.
+# Hey, I'm Diego 👋
 
-![profile_views](https://komarev.com/ghpvc/?username=voidabledev)
+I'm a developer based in Colombia who builds custom Discord bots with **TypeScript**. I mostly like to code, exercise and have a good time.
 
-### about me
-i started coding in jan 2021, when i wanted to learn web development. i deviated from that and started coding with [discord.js](https://discord.js.org). im now coming back from my 3-year long hiatus.
+## What I work on
 
-### Fun facts
-- i live in latam
-- im in the tier 3 scene of val pro play in latam
-- i speak english and spanish
-- i go to the gym
+- **Bots.** Mainy discord bots with my current knowledge, but I aspire to become a SWE someday!
 
-### contact me
-- on discord: justvoidable
-- or gmail: voidable.discord@gmail.com
+## Tech
+
+`TypeScript` · `Node.js` · `MongoDB`
+
+## Languages
+
+Fluent in English and Spanish, so I'm comfortable working with clients and teams in either.
+
+## Work with me
+
+I take on freelance Discord bot projects. If you have an idea for your community, feel free to reach out.
+
+📫 **Contact:** _in my discord @: justvoidable or my ![Fiverr](https://www.fiverr.com/voidabledev)_
